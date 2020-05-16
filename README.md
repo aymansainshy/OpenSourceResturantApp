@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # OpenSourceResturantApp
 
 ![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc0.jpg)
-![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc1.jpg)
+![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc1.png)
 ![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc2.png)
 ![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc3.png)
 ![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc4.png)
