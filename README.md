@@ -21,19 +21,14 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Image 000](https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc0.jpg)
 
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc1.png" width="350"> 
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc2.png" width="350">
+<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc1.png" width="350"> <img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc2.png" width="350">
 
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc3.png" width="350">
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc4.png" width="350">
+<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc3.png" width="350"> <img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc4.png" width="350">
 
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc5.png" width="350">
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc6.png" width="350">
+<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc5.png" width="350"> <img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc6.png" width="350">
 
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc7.png" width="350">
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc8.png" width="350">
+<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc7.png" width="350"> <img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc8.png" width="350">
 
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc9.png" width="350">
-<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc10.png" width="350">
+<img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc9.png" width="350"> <img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc10.png" width="350">
 
 <img src="https://github.com/aymansainshy/OpenSourceResturantApp/blob/master/ScreenShot/sc11.png" width="350">
